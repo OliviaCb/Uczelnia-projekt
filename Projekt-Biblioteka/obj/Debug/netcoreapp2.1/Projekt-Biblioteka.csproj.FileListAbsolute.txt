@@ -1,0 +1,11 @@
+C:\Users\Oliwia\Source\Repos\Projekt-Biblioteka\Projekt-Biblioteka\obj\Debug\netcoreapp2.1\Projekt-Biblioteka.csprojAssemblyReference.cache
+C:\Users\Oliwia\Source\Repos\Projekt-Biblioteka\Projekt-Biblioteka\obj\Debug\netcoreapp2.1\Projekt-Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Oliwia\Source\Repos\Projekt-Biblioteka\Projekt-Biblioteka\obj\Debug\netcoreapp2.1\Projekt-Biblioteka.AssemblyInfoInputs.cache
+C:\Users\Oliwia\Source\Repos\Projekt-Biblioteka\Projekt-Biblioteka\obj\Debug\netcoreapp2.1\Projekt-Biblioteka.AssemblyInfo.cs
+C:\Users\Oliwia\Source\Repos\Projekt-Biblioteka\Projekt-Biblioteka\bin\Debug\netcoreapp2.1\Projekt-Biblioteka.deps.json
+C:\Users\Oliwia\Source\Repos\Projekt-Biblioteka\Projekt-Biblioteka\bin\Debug\netcoreapp2.1\Projekt-Biblioteka.runtimeconfig.json
+C:\Users\Oliwia\Source\Repos\Projekt-Biblioteka\Projekt-Biblioteka\bin\Debug\netcoreapp2.1\Projekt-Biblioteka.runtimeconfig.dev.json
+C:\Users\Oliwia\Source\Repos\Projekt-Biblioteka\Projekt-Biblioteka\bin\Debug\netcoreapp2.1\Projekt-Biblioteka.dll
+C:\Users\Oliwia\Source\Repos\Projekt-Biblioteka\Projekt-Biblioteka\bin\Debug\netcoreapp2.1\Projekt-Biblioteka.pdb
+C:\Users\Oliwia\Source\Repos\Projekt-Biblioteka\Projekt-Biblioteka\obj\Debug\netcoreapp2.1\Projekt-Biblioteka.dll
+C:\Users\Oliwia\Source\Repos\Projekt-Biblioteka\Projekt-Biblioteka\obj\Debug\netcoreapp2.1\Projekt-Biblioteka.pdb

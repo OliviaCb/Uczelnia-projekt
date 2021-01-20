@@ -1,0 +1,1 @@
+ID ksiazki; ISBN; Kategoria; Tytul; Autor; Liczba stron
